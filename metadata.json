@@ -1,0 +1,6 @@
+{
+  "name": "Nice Presso POS & Stock Management",
+  "description": "Aplikasi POS kasir minuman dengan pencatatan stok real-time, laporan penjualan harian/bulanan/tahunan, manajemen kasir & aktivitas, cetak struk printer thermal Bluetooth, dan ekspor PDF/Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
